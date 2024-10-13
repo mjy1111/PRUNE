@@ -1,6 +1,6 @@
 # Perturbation-restrained
 
-This is the repository for our paper: Perturbation-Restrained Sequential Model Editing.
+This is the repository for our paper: Perturbation-Restrained Sequential Model Editing ([arxiv](https://arxiv.org/pdf/2405.16821)).
 
 ## Overview
 **Model editing** aims to adjust an initial base model's $(f_\theta)$ behavior($x_e \rightarrow y_e$) on the particular edit descriptor $[x_e, y_e]$ efficiently.
