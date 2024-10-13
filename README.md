@@ -23,7 +23,7 @@ data/
         |__ test-reasoning.jsonl
         ...
 ```
-
+Firstly, you should unzip the data.zip in the data/.
 
 ## Prepare the environment
 
