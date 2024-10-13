@@ -142,6 +142,37 @@ Run:
 python trainer.py
 ```
 
+## Citation
+If you use this code and dataset, please cite our paper:
+```bibtex
+@article{DBLP:journals/corr/abs-2405-16821,
+  author       = {Jun{-}Yu Ma and
+                  Hong Wang and
+                  Hao{-}Xiang Xu and
+                  Zhen{-}Hua Ling and
+                  Jia{-}Chen Gu},
+  title        = {Perturbation-Restrained Sequential Model Editing},
+  journal      = {CoRR},
+  volume       = {abs/2405.16821},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2405.16821},
+  doi          = {10.48550/ARXIV.2405.16821},
+  eprinttype    = {arXiv},
+  eprint       = {2405.16821},
+  timestamp    = {Tue, 18 Jun 2024 16:10:22 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2405-16821.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
+### Questions?
+If you have any questions related to the repository or the paper, or you encounter any problems when using the datasets/code, feel free to email Junyu Ma `(mjy1999@mail.ustc.edu.cn)` or open an issue!
 
+
+### Related Projects
+- [EasyEdit](https://github.com/zjunlp/EasyEdit)
+- [ROME](https://github.com/kmeng01/rome)
+- [FastEdit](https://github.com/hiyouga/FastEdit)
+
+We express sincere gratitude to [EasyEdit](https://github.com/zjunlp/EasyEdit) and [ROME](https://github.com/kmeng01/rome), as we have utilized portions of their source code in our project.
 
 
