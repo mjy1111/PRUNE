@@ -2,6 +2,7 @@
 
 This is the repository for our paper: Perturbation-Restrained Sequential Model Editing ([arxiv](https://arxiv.org/pdf/2405.16821)).
 
+Our paper has been accepted by ICLR 2025! 
 ## Overview
 **Model editing** aims to adjust an initial base model's $(f_\theta)$ behavior($x_e \rightarrow y_e$) on the particular edit descriptor $[x_e, y_e]$ efficiently.
 However, current model editing methods significantly compromise the general abilities of LLMs as the number of edits increases, and this trade-off poses a substantial challenge to the continual learning of LLMs.
